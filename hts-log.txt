@@ -1,0 +1,30 @@
+HTTrack3.50-5 launched on Mon, 26 Oct 2026 17:07:12 at https://bloxelizer.com/viewer +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "de, en, *" https://bloxelizer.com/viewer -O1 "C:\Meine Webseiten\Schematica" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:31	Error: 	"Not Found" (404) at link https://bloxelizer.com/^ (from https://bloxelizer.com/viewer)
+17:13:08	Error: 	Unable to write file C:/Meine Webseiten/Schematica/bloxelizer.com/textures/smithing_table_top.png: No space left on device
+17:13:08	Error: 	Mirror aborted: disk full or filesystem problems
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-175.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-176.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-177.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-178.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-179.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-180.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-181.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-182.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-183.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-184.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-185.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-186.tmp: write error: No space left on device
+17:13:08	Warning: 	engine: warning: serialize error for https://bloxelizer.com/textures/smithing_table_top.png to C:/Meine Webseiten/Schematica/~hts-tmp/tmpfile14188-187.tmp: write error: No space left on device
+17:13:09	Warning: 	Could not create temporary reference file for https://bloxelizer.com/textures/smoker_top.png
+17:14:03	Error: 	Exit requested by engine
+17:14:03	Warning: 	Mirror aborted: keeping all previously mirrored files
+
+HTTrack Website Copier/3.50-5 mirror aborted after 6 minutes 51 seconds : 1591 links scanned, 1564 files written (33604795 bytes overall) [9437503 bytes received at 22962 bytes/sec], 34197842 bytes transferred using HTTP compression in 165 files, ratio 14%, 144.8 requests per connection
+(5 errors, 2472 warnings, 0 messages)
